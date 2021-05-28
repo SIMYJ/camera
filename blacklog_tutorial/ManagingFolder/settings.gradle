@@ -1,0 +1,2 @@
+rootProject.name = "ManagingFolder"
+include ':app'
