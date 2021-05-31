@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">flask_retrofit_connection</string>
+    <string name="baseUrl">http://34.64.135.229:5000/</string>
+</resources>
